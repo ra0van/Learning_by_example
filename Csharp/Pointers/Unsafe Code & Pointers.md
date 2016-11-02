@@ -1,4 +1,4 @@
-/**
+
 	ref : https://msdn.microsoft.com/en-us/library/chfa2zb8.aspx
 	
 	Like the name suggests, unsafe is the keyword used for an unsafe context, i.e when the pointers are used.
@@ -19,6 +19,5 @@
 	
 	
 	Examples:
+		To be updated
 	
-	
-**/
