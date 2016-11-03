@@ -19,5 +19,5 @@
 	
 	
 	Examples:
-		To be updated
+		Won't be updating any more examples for this section for now. 
 	
